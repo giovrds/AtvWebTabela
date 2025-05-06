@@ -1,0 +1,17 @@
+table{
+    border: 2px solid purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    font-size: 30px;
+    text-align: center; 
+}
+th{
+    border: 2px solid purple;
+    color: purple;
+    background-color:rgba(128, 0, 128, 0.318);
+}
+
+td{
+    border: 2px solid purple;
+}
+
